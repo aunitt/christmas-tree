@@ -1,0 +1,6 @@
+ChangeColorIntent go {LedColor}
+ChangeColorIntent turn {LedColor}
+ChangeColorIntent change to {LedColor}
+ChangeColorIntent change colour to {LedColor}
+ChangeIntensityIntent set brightness to {IntensityLevel} percent
+TurnOffIntent turn off
